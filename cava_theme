@@ -1,0 +1,27 @@
+[color]
+gradient = 1
+gradient_count = 8
+
+# Cold dusk sky
+gradient_color_1 = '#b0b7c5'
+
+# Muted lavender transition
+gradient_color_2 = '#a79fb5'
+
+# Soft fogged highlight
+gradient_color_3 = '#bea7bd'
+
+# Warm concrete glow
+gradient_color_4 = '#af8a79'
+
+# Deep ember dusk
+gradient_color_5 = '#a88373'
+
+# Fading sunset ash
+gradient_color_6 = '#9b7a6c'
+
+# Returning calm
+gradient_color_7 = '#a79fb5'
+
+# Nightfall sky
+gradient_color_8 = '#b0b7c5'

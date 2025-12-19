@@ -1,0 +1,94 @@
+# ================================
+# Concrete Dusk — btop theme
+# ================================
+
+# Main background (dark concrete shadow)
+theme[main_bg]="#292323"
+
+# Main foreground text (soft off-white)
+theme[main_fg]="#dcd7d6"
+
+# Box titles (dusty lavender-grey)
+theme[title]="#bea7bd"
+
+# Highlight color (calm, muted dusk tone)
+theme[hi_fg]="#a8a0b0"
+
+# Selected process background (soft concrete)
+theme[selected_bg]="#7a6f6f"
+
+# Selected process foreground
+theme[selected_fg]="#dcd7d6"
+
+# Inactive / disabled text
+theme[inactive_fg]="#877878"
+
+# Process misc info (matches title tone)
+theme[proc_misc]="#bea7bd"
+
+# ================================
+# Box outlines & dividers
+# ================================
+
+# Warm sunset touching concrete
+theme[cpu_box]="#af8a79"
+theme[mem_box]="#af8a79"
+theme[net_box]="#af8a79"
+theme[proc_box]="#af8a79"
+
+# Divider lines (foggy distance)
+theme[div_line]="#877878"
+
+# ================================
+# Temperature meters
+# ================================
+
+theme[temp_start]="#b0b7c5"
+theme[temp_mid]="#a79fb5"
+theme[temp_end]="#af8a79"
+
+# ================================
+# CPU meters
+# ================================
+
+theme[cpu_start]="#b0b7c5"
+theme[cpu_mid]="#a79fb5"
+theme[cpu_end]="#af8a79"
+
+# ================================
+# Memory meters
+# ================================
+
+# Free memory (cool dusk)
+theme[free_start]="#a39eb8"
+theme[free_mid]="#a88373"
+theme[free_end]="#a88373"
+
+# Cached memory (warm concrete)
+theme[cached_start]="#a88373"
+theme[cached_mid]="#a88373"
+theme[cached_end]="#a88373"
+
+# Available memory (even, calm)
+theme[available_start]="#b0b7c5"
+theme[available_mid]="#b0b7c5"
+theme[available_end]="#b0b7c5"
+
+# Used memory (sunset weight)
+theme[used_start]="#af8a79"
+theme[used_mid]="#af8a79"
+theme[used_end]="#af8a79"
+
+# ================================
+# Network meters
+# ================================
+
+# Download (cold → warm transition)
+theme[download_start]="#a88373"
+theme[download_mid]="#b0b7c5"
+theme[download_end]="#a39eb8"
+
+# Upload (same transition, reversed feel)
+theme[upload_start]="#a88373"
+theme[upload_mid]="#b0b7c5"
+theme[upload_end]="#a39eb8"
