@@ -1,4 +1,4 @@
-# Lowlight
+# Lowlight - Use Adso's Vertical [Waybar](https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar)
 
 ## 📦 Install -
    - Paste the command in your terminal ⬇️
